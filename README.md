@@ -9,9 +9,7 @@ Process frames from MP4 video files
 
 # Requirements
 
-Python 3.x
-pytube library
-OpenCV library
+Python 3.x, pytube library, OpenCV library
 
 # Usage
 1. Clone or download this repository.
