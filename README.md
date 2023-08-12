@@ -7,7 +7,7 @@ This Python script allows you to download videos from YouTube links or process f
 Download and process frames from YouTube videos
 Process frames from MP4 video files
 
-#Requirements
+# Requirements
 
 Python 3.x
 pytube library
