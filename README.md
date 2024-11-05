@@ -1,6 +1,6 @@
 # VideoFrameExtractor
 
-This Python script allows you to download videos from YouTube links or process frames from MP4 video files and save them as individual image files in a folder.
+This Python script allows you to download videos from YouTube links or process frames from MP4 video files and save them as individual image files in a folder for data.
 
 # Features
 
